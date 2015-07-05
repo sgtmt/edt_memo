@@ -85,10 +85,10 @@
             android:layout_width="match_parent"
             android:layout_height="91dp"
             android:id="@+id/showBtn"
-            android:layout_below="@+id/linearLayout3"
-            android:layout_alignParentStart="true"
             android:background="@drawable/memo__"
-            android:layout_marginLeft="30dp" />
+            android:layout_marginLeft="30dp"
+            android:layout_below="@+id/linearLayout2"
+            android:layout_alignParentEnd="true" />
     </LinearLayout>
 
 </RelativeLayout>
